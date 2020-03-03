@@ -23,10 +23,6 @@
       "type": "LicenseRef-softdevice_nrf51822_licence_agreement.txt"
     }
   ],
-  "dependencies": {
-    "ble": "^2.3.0",
-    "nrf51-sdk": "^2.1.0"
-  },
   "extraIncludes": [
     "source/btle",
     "source/btle/custom",
